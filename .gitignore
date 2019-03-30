@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/sqldiet
+sqldiet.so
+sqldiet.dylib
+sqldiet.dll
+sqldiet.a
+sqldiet.lib
+sqldiet-test-*
+*.exe
+*.o
+*.obj
+*.lst
