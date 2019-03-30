@@ -1,0 +1,5 @@
+name "sqldiet"
+description "A simple SQLite clone written in D"
+authors "Maurice Schmidt"
+copyright "Copyright © 2019, Maurice Schmidt"
+license "MIT"
